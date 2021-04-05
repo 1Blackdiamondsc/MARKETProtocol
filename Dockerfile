@@ -14,5 +14,3 @@ COPY migrations/ migrations/
 COPY scripts/ scripts/
 COPY test/ test/
 COPY truffle.js .solcover.js ./
-
-
