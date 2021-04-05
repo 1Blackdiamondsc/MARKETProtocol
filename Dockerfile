@@ -1,4 +1,4 @@
-FROM node:9.2.0
+FROM node:15.12.0
 
 RUN npm install -g truffle@5.0.18 ethereumjs-testrpc-sc@6.1.2 --unsafe
 
