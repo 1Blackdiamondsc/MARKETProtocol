@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "openzeppelin-solidity": "2.2.0",
-    "truffle": "5.1.34"
+    "truffle": "5.1.42"
   },
   "devDependencies": {
     "bn.js": "^4.11.8",
