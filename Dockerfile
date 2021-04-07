@@ -1,4 +1,4 @@
-FROM node:15.12-buster-slim
+FROM node:15.14.0-buster-slim
 
 RUN npm install -g truffle@5.0.18 ethereumjs-testrpc-sc@6.1.2 --unsafe
 
