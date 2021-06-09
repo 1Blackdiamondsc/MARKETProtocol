@@ -9,7 +9,7 @@
   "dependencies": {
     "openzeppelin-solidity": "4.0.0",
     "truffle": "5.3.0",
-    "snyk": "^1.621.0"
+    "snyk": "^1.623.0"
   },
   "devDependencies": {
     "bn.js": "^4.12.0",
