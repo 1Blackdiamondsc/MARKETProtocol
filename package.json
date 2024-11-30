@@ -53,7 +53,7 @@
   },
   "homepage": "https://github.com/MARKETProtocol/MARKETProtocol#readme",
   "engines": {
-    "node": ">=8.10.0"
+    "node": ">=16.4.2"
   },
   "publishConfig": {
     "access": "public"
